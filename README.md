@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An easie entrance into the principall points of Christian religion verie short and plaine for the si
+
+1. To the Reader.
+
 #####Body#####
-An easie entrance into the principall points of Christian religion verie short and plaine for the si
+
+1. The Lawe.
+
 **Types of content**
 
   * There are 217 **drama** parts! This is **prose drama**.
